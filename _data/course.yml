@@ -34,7 +34,8 @@ schedule_columns:
 
 meetings:
   lecture:
-    when: "TBA"
+    when: "2:10pm - 3:00pm"
+    in: "14-232B"
   lab:
-    when: "TBA"
-    in: TBA
+    when: "3:10pm - 4:00pm"
+    in: "14-255"
