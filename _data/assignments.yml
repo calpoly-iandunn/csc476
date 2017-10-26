@@ -1,0 +1,29 @@
+
+##########
+## Labs ##
+##########
+
+lab01:
+  title:       Lab 1
+  subtitle:    "TBA"
+  type:        lab
+  individual:  true
+  assigned:    TBA
+  due:         TBA
+  # basecode:    https://github.com/calpoly-csc476/lab01
+
+
+
+##############
+## Programs ##
+##############
+
+program01:
+  title:       Program 1
+  subtitle:    "TBA"
+  type:        program
+  individual:  true
+  assigned:    TBA
+  due:         TBA
+  # github:      https://classroom.github.com/a/RAeEAiIl
+  # basecode:    https://github.com/calpoly-csc471/program01

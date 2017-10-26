@@ -1,0 +1,174 @@
+---
+layout: default
+active: home
+---
+
+
+<!-- ///////// -->
+<!-- Jumbotron -->
+<!-- ///////// -->
+
+<div class="jumbotron">
+  <div class="container">
+
+    <h1>CSC {{ site.data.course.number }}: {{ site.data.course.title }}</h1>
+
+    <p>
+      This is the course webpage for <strong>CSC {{ site.data.course.number }}: {{ site.data.course.title }}</strong> taught by Ian Dunn.
+    </p>
+
+    <p>
+      We meet from
+        <span class="text-success">{{ site.data.course.meetings.lecture.when }}</span>
+{% if site.data.course.meetings.lecture.in %}
+        in <span class="text-info">{{ site.data.course.meetings.lecture.in }}</span>.
+{% endif %}
+
+        and from
+        <span class="text-success">{{ site.data.course.meetings.lab.when }}</span>
+{% if site.data.course.meetings.lab.in %}
+        in <span class="text-info">{{ site.data.course.meetings.lab.in }}</span>.
+{% endif %}
+    </p>
+
+  </div>
+</div>
+
+<div class="container" id="content">
+
+
+<!-- /////////// -->
+<!-- Quick Links -->
+<!-- /////////// -->
+
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">Quick Links</h3>
+  </div>
+  <div class="panel-body">
+    <ul>
+      <li><a href="#course_info">Course Info</a></li>
+{% for week in site.data.weeks %}
+      <li><a href="#week_{{ week.number }}">{{ week.name }}</a></li>
+{% endfor %}
+    </ul>
+  </div>
+</div>
+
+
+<!-- /////////// -->
+<!-- Course Info -->
+<!-- /////////// -->
+
+<a name="course_info"></a>
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <h3 class="panel-title">Course Info</h3>
+  </div>
+  <div class="panel-body">
+
+{% include course_info.html %}
+
+  </div>
+</div>
+
+
+
+<!-- //////// -->
+<!-- Schedule -->
+<!-- //////// -->
+
+{% for week in site.data.weeks %}
+
+  <a name="week_{{ week.number }}"></a>
+  <h2 class="week-label">{{ week.name }}</h2>
+
+{% capture week_class %}{% cycle 'panel-primary', 'panel-info' %}{% endcapture %}
+
+{% for day in week.days %}
+
+  <div class="panel {{ week_class }}">
+    <div class="panel-heading">
+      <h3 class="panel-title">{{ day.name }}</h3>
+    </div>
+    <div class="panel-body">
+{% if day.override %}
+      <div class="row">
+        <div class="col-xs-12">
+          <p>{{ day.override }}</p>
+        </div>
+      </div>
+{% else %}
+      <div class="row">
+
+{% for column in site.data.course.schedule_columns %}
+        <!-- {{ column.title }} -->
+        <div class="col-sm-6">
+          <div class="well well-sm">
+            <h4>{{ column.title }}</h4>
+            <ul>
+  {% for item in day[column.name] %}
+    {% if item.link %}
+              <li><a href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
+    {% elsif item.outbound %}
+              <li><a href="{{ item.outbound }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
+    {% elsif item.text %}
+              <li>{{ item.text }}{% if item.due %} due {{ item.due }}{% endif %}</li>
+    {% else %}
+      {% if item == "TBA" %}
+              <li><span class="text-warning">TBA</span></li>
+      {% elsif item == "None" %}
+              <li><span class="text-info">None</span></li>
+      {% else %}
+              <li>{{ item }}</li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+            </ul>
+          </div>
+        </div>
+{% endfor %}
+
+        <!-- Assignments -->
+        <div class="col-sm-6">
+          <div class="well well-sm">
+            <h4>Assignments</h4>
+            <ul>
+  {% assign anything = false %}
+  {% for pair in site.data.assignments %}
+    {% assign name = pair[0] %}
+    {% assign assignment = pair[1] %}
+
+    {% if day.name == assignment.due %}
+      {% assign anything = true %}
+              <li><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }}</a> is due <span class="text-danger">today!</span></li>
+    {% endif %}
+  {% endfor %}
+  {% for pair in site.data.assignments %}
+    {% assign name = pair[0] %}
+    {% assign assignment = pair[1] %}
+
+    {% if day.name == assignment.assigned %}
+      {% assign anything = true %}
+              <li><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }}</a> due {{ assignment.due }}</li>
+    {% endif %}
+  {% endfor %}
+
+  {% if anything == false %}
+              <li><span>Nothing new assigned or due.</span></li>
+  {% endif %}
+            </ul>
+          </div>
+        </div>
+
+      </div>
+{% endif %}
+
+    </div>
+  </div>
+
+{% endfor %}
+
+{% endfor %}
+
+</div>

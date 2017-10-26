@@ -1,0 +1,40 @@
+
+number: 476
+title: "Real-Time 3D Computer Graphics Software"
+
+tabs:
+  - name: home
+    title: Home
+    link: /index.html
+
+  - name: references
+    title: References
+    link: /references
+
+  - name: lectures
+    title: Lectures
+    link: /lectures
+
+  - name: assignments
+    title: Assignments
+    link: /assignments
+
+  - name: syllabus
+    title: Syllabus
+    link: /syllabus.html
+
+links:
+  - title: Piazza
+    link: "#"
+
+schedule_columns:
+  - name: lecture
+    title: Lecture
+    class: "col-sm-6"
+
+meetings:
+  lecture:
+    when: "TBA"
+  lab:
+    when: "TBA"
+    in: TBA
