@@ -4,14 +4,178 @@
   name: Week 1
   days:
 
-  - name: Monday 9/18
+  - name: Monday 1/8
     lecture:
+      - TBA
 
-  - name: Wednesday 9/20
+  - name: Wednesday 1/10
     lecture:
+      - TBA
 
-  - name: Friday 9/22
+  - name: Friday 1/12
     lecture:
+      - TBA
+
+###############################################################################
+
+- number: 2
+  name: Week 2
+  days:
+
+  - name: Monday 1/15
+    override: Academic Holiday - MLK, Jr.'s Birthday Observed
+
+  - name: Wednesday 1/17
+    lecture:
+      - TBA
+
+  - name: Friday 1/19
+    lecture:
+      - TBA
+
+###############################################################################
+
+- number: 3
+  name: Week 3
+  days:
+
+  - name: Monday 1/22
+    lecture:
+      - TBA
+
+  - name: Wednesday 1/24
+    lecture:
+      - TBA
+
+  - name: Friday 1/26
+    lecture:
+      - TBA
+
+###############################################################################
+
+- number: 4
+  name: Week 4
+  days:
+
+  - name: Monday 1/29
+    lecture:
+      - TBA
+
+  - name: Wednesday 1/31
+    lecture:
+      - TBA
+
+  - name: Friday 2/2
+    lecture:
+      - TBA
+
+###############################################################################
+
+- number: 5
+  name: Week 5
+  days:
+
+  - name: Monday 2/5
+    lecture:
+      - TBA
+
+  - name: Wednesday 2/7
+    lecture:
+      - TBA
+
+  - name: Friday 2/9
+    lecture:
+      - TBA
+
+###############################################################################
+
+- number: 6
+  name: Week 6
+  days:
+
+  - name: Monday 2/12
+    lecture:
+      - TBA
+
+  - name: Wednesday 2/14
+    lecture:
+      - TBA
+
+  - name: Friday 2/16
+    lecture:
+      - TBA
+
+###############################################################################
+
+- number: 7
+  name: Week 7
+  days:
+
+  - name: Tuesday 2/20
+    lecture:
+      - TBA
+
+  - name: Wednesday 2/21
+    lecture:
+      - TBA
+
+  - name: Friday 2/23
+    lecture:
+      - TBA
+
+###############################################################################
+
+- number: 8
+  name: Week 8
+  days:
+
+  - name: Monday 2/26
+    lecture:
+      - TBA
+
+  - name: Wednesday 2/28
+    lecture:
+      - TBA
+
+  - name: Friday 3/2
+    lecture:
+      - TBA
+
+###############################################################################
+
+- number: 9
+  name: Week 9
+  days:
+
+  - name: Monday 3/5
+    lecture:
+      - TBA
+
+  - name: Wednesday 3/7
+    lecture:
+      - TBA
+
+  - name: Friday 3/9
+    lecture:
+      - TBA
+
+###############################################################################
+
+- number: 10
+  name: Week 10
+  days:
+
+  - name: Monday 3/12
+    lecture:
+      - TBA
+
+  - name: Wednesday 3/14
+    lecture:
+      - TBA
+
+  - name: Friday 3/16
+    lecture:
+      - TBA
 
 ###############################################################################
 
@@ -19,6 +183,6 @@
   name: Finals Week
   days:
   - name: "Final Exam - ??? 12/? @ ???"
-    override: "Final Project Demos"
+    override: "Final Game Presentations"
 
 ###############################################################################
