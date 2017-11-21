@@ -27,11 +27,11 @@
 
   - name: Wednesday 1/17
     lecture:
-      - text: Terrain Geometry
+      - text: Git Branching Models
 
   - name: Friday 1/19
     lecture:
-      - text: Character Animation
+      - text: Iterative Prototyping
 
 ###############################################################################
 
@@ -41,15 +41,16 @@
 
   - name: Monday 1/22
     lecture:
+      - text: Character Animation
       - text: Physically Based Animation
 
   - name: Wednesday 1/24
     lecture:
-      - text: Spatial Data Structures 1
+      - text: Software Design
 
   - name: Friday 1/26
     lecture:
-      - text: Spatial Data Structures 2
+      - text: Game Design Patterns
 
 ###############################################################################
 
@@ -59,16 +60,15 @@
 
   - name: Monday 1/29
     lecture:
-      - text: Lighting Review
+      - text: Component-Entity Systems
 
   - name: Wednesday 1/31
     lecture:
-      - text: Advanced Texturing
+      - text: Terrain Geometry
 
   - name: Friday 2/2
     lecture:
-      - text: Shadows
-      - text: Light Maps
+      - text: Spatial Data Structures 1
 
 ###############################################################################
 
@@ -78,15 +78,16 @@
 
   - name: Monday 2/5
     lecture:
-      - text: Screen-Space Ambient Occlusion
+      - text: Spatial Data Structures 2
 
   - name: Wednesday 2/7
     lecture:
-      - text: Physically-Based Rendering
+      - text: Spatial Data Structures 2
 
   - name: Friday 2/9
     lecture:
-      - text: Global Illumination
+      - text: Lighting Review
+      - text: Advanced Texturing
 
 ###############################################################################
 
@@ -96,16 +97,16 @@
 
   - name: Monday 2/12
     lecture:
-      - text: Midterm 1
+      - text: Shadows
+      - text: Light Maps
 
   - name: Wednesday 2/14
     lecture:
-      - text: Polygonal Meshes
-      - text: Voxels
+      - text: Midterm 1
 
   - name: Friday 2/16
     lecture:
-      - text: Parametric Geometry
+      - text: Screen-Space Ambient Occlusion
 
 ###############################################################################
 
@@ -115,15 +116,16 @@
 
   - name: Tuesday 2/20
     lecture:
-      - text: Culling
+      - text: Physically-Based Rendering
 
   - name: Wednesday 2/21
     lecture:
-      - text: Skinned Mesh Animation
+      - text: Global Illumination
 
   - name: Friday 2/23
     lecture:
-      - text: Inverse Kinematics
+      - text: Polygonal Meshes
+      - text: Voxels
 
 ###############################################################################
 
@@ -133,15 +135,15 @@
 
   - name: Monday 2/26
     lecture:
-      - text: Particle Systems
+      - text: Parametric Geometry
 
   - name: Wednesday 2/28
     lecture:
-      - text: Geometry Shaders
+      - text: Culling Algorithms
 
   - name: Friday 3/2
     lecture:
-      - text: Subdivision Surfaces
+      - text: Skinned Mesh Animation
 
 ###############################################################################
 
@@ -151,15 +153,15 @@
 
   - name: Monday 3/5
     lecture:
-      - text: Visual Storytelling
+      - text: Inverse Kinematics
 
   - name: Wednesday 3/7
     lecture:
-      - text: TBA
+      - text: Particle Systems
 
   - name: Friday 3/9
     lecture:
-      - text: TBA
+      - text: Geometry Shaders
 
 ###############################################################################
 
@@ -169,11 +171,11 @@
 
   - name: Monday 3/12
     lecture:
-      - text: TBA
+      - text: Subdivision Surfaces
 
   - name: Wednesday 3/14
     lecture:
-      - text: TBA
+      - text: Visual Storytelling
 
   - name: Friday 3/16
     lecture:
