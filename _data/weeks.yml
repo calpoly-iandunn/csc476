@@ -6,15 +6,15 @@
 
   - name: Monday 1/8
     lecture:
-      - TBA
+      - text: Introduction
 
   - name: Wednesday 1/10
     lecture:
-      - TBA
+      - text: Graphics Pipeline Review
 
   - name: Friday 1/12
     lecture:
-      - TBA
+      - text: Simulation Time Steps
 
 ###############################################################################
 
@@ -27,11 +27,11 @@
 
   - name: Wednesday 1/17
     lecture:
-      - TBA
+      - text: Terrain Geometry
 
   - name: Friday 1/19
     lecture:
-      - TBA
+      - text: Character Animation
 
 ###############################################################################
 
@@ -41,15 +41,15 @@
 
   - name: Monday 1/22
     lecture:
-      - TBA
+      - text: Physically Based Animation
 
   - name: Wednesday 1/24
     lecture:
-      - TBA
+      - text: Spatial Data Structures 1
 
   - name: Friday 1/26
     lecture:
-      - TBA
+      - text: Spatial Data Structures 2
 
 ###############################################################################
 
@@ -59,15 +59,16 @@
 
   - name: Monday 1/29
     lecture:
-      - TBA
+      - text: Lighting Review
 
   - name: Wednesday 1/31
     lecture:
-      - TBA
+      - text: Advanced Texturing
 
   - name: Friday 2/2
     lecture:
-      - TBA
+      - text: Shadows
+      - text: Light Maps
 
 ###############################################################################
 
@@ -77,15 +78,15 @@
 
   - name: Monday 2/5
     lecture:
-      - TBA
+      - text: Screen-Space Ambient Occlusion
 
   - name: Wednesday 2/7
     lecture:
-      - TBA
+      - text: Physically-Based Rendering
 
   - name: Friday 2/9
     lecture:
-      - TBA
+      - text: Global Illumination
 
 ###############################################################################
 
@@ -95,15 +96,16 @@
 
   - name: Monday 2/12
     lecture:
-      - TBA
+      - text: Midterm 1
 
   - name: Wednesday 2/14
     lecture:
-      - TBA
+      - text: Polygonal Meshes
+      - text: Voxels
 
   - name: Friday 2/16
     lecture:
-      - TBA
+      - text: Parametric Geometry
 
 ###############################################################################
 
@@ -113,15 +115,15 @@
 
   - name: Tuesday 2/20
     lecture:
-      - TBA
+      - text: Culling
 
   - name: Wednesday 2/21
     lecture:
-      - TBA
+      - text: Skinned Mesh Animation
 
   - name: Friday 2/23
     lecture:
-      - TBA
+      - text: Inverse Kinematics
 
 ###############################################################################
 
@@ -131,15 +133,15 @@
 
   - name: Monday 2/26
     lecture:
-      - TBA
+      - text: Particle Systems
 
   - name: Wednesday 2/28
     lecture:
-      - TBA
+      - text: Geometry Shaders
 
   - name: Friday 3/2
     lecture:
-      - TBA
+      - text: Subdivision Surfaces
 
 ###############################################################################
 
@@ -149,15 +151,15 @@
 
   - name: Monday 3/5
     lecture:
-      - TBA
+      - text: Visual Storytelling
 
   - name: Wednesday 3/7
     lecture:
-      - TBA
+      - text: TBA
 
   - name: Friday 3/9
     lecture:
-      - TBA
+      - text: TBA
 
 ###############################################################################
 
@@ -167,15 +169,15 @@
 
   - name: Monday 3/12
     lecture:
-      - TBA
+      - text: TBA
 
   - name: Wednesday 3/14
     lecture:
-      - TBA
+      - text: TBA
 
   - name: Friday 3/16
     lecture:
-      - TBA
+      - text: Midterm 2
 
 ###############################################################################
 
