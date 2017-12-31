@@ -186,7 +186,7 @@
 - number: 11
   name: Finals Week
   days:
-  - name: "Final Exam - ??? 12/? @ ???"
+  - name: "Final Exam - Wednesday 3/21 @ 1:10pm - 4:00pm"
     override: "Final Game Presentations"
 
 ###############################################################################
