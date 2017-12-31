@@ -5,11 +5,11 @@
 
 lab01:
   title:       Lab 1
-  subtitle:    "TBA"
+  subtitle:    "A Simple Game"
   type:        lab
-  individual:  true
-  assigned:    TBA
-  due:         TBA
+  individual:  false
+  assigned:    Monday 1/8
+  due:         Friday 1/19
   # basecode:    https://github.com/calpoly-csc476/lab01
 
 
