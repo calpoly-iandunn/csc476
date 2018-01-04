@@ -12,6 +12,7 @@
   - name: Wednesday 1/10
     lecture:
       - text: Graphics Pipeline Review
+        link: /lectures/01-graphics-pipeline
 
   - name: Friday 1/12
     lecture:
