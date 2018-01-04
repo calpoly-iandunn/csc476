@@ -8,7 +8,7 @@ auto-title: true
 
 ## Resources
 
-- [Curated Current Recommendations - Me](resources)
+- [Curated Current Official Recommendations](resources)
 
 - [Danial Hall - 2014](http://users.csc.calpoly.edu/~zwood/teaching/csc476/final14/carrota/ref/)
 

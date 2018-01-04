@@ -10,15 +10,15 @@ auto-title: true
 
 Mandatory?
 
-[GLM](https://glm.g-truc.net/) - Math library.
+[**GLM**](https://glm.g-truc.net/) - Math library.
 
-[GLFW](http://www.glfw.org/) - Windowing and input abstraction layer.
+[**GLFW**](http://www.glfw.org/) - Windowing and input abstraction layer.
 
-[GLAD](http://glad.dav1d.de/) - OpenGL extension loading (simplest).
+[**GLAD**](http://glad.dav1d.de/) - OpenGL extension loading (simplest).
 
-[CMake](https://cmake.org/) - C++ build platform.
+[**CMake**](https://cmake.org/) - C++ build platform.
 
-[imgui](https://github.com/ocornut/imgui) - Awesome GUI library.
+[**imgui**](https://github.com/ocornut/imgui) - Awesome GUI library.
 
 
 
