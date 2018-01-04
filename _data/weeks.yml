@@ -7,6 +7,7 @@
   - name: Monday 1/8
     lecture:
       - text: Introduction
+        link: /lectures/00-introduction
 
   - name: Wednesday 1/10
     lecture:
@@ -15,6 +16,7 @@
   - name: Friday 1/12
     lecture:
       - text: Simulation Time Steps
+      - text: "Lab: Marketplace!"
 
 ###############################################################################
 
