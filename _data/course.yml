@@ -19,8 +19,11 @@ tabs:
     title: Assignments
     link: /assignments
 
-links:
+  - name: calendar
+    title: Calendar
+    link: /calendar.html
 
+links:
   - name: syllabus
     title: Syllabus
     link: /syllabus.html

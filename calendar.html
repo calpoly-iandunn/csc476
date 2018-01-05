@@ -1,0 +1,86 @@
+---
+layout: page
+active: calendar
+title: "Calendar"
+auto-title: true
+---
+
+<table class="tbl-outline">
+
+<tr><th>Week</th><th>Day</th><th>Topics</th><th>Project</th>
+
+</tr>
+{% for week in site.data.weeks %}
+
+{% capture week_color %}{% cycle '#fff', '#EDEDED' %}{% endcapture %}
+
+{% for day in week.days %}
+
+{% if day.override %}
+{% else %}
+
+  <tr style="background-color: {{ week_color }};">
+
+    <td>{{ week.number }}</td>
+    <td>{{ day.name }}</td>
+
+
+    <!-- Columns -->
+{% for column in site.data.course.schedule_columns %}
+    <td>
+      <ul>
+
+  {% for item in day[column.name] %}
+    {% if item.link %}
+        <li><a href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
+    {% elsif item.outbound %}
+        <li><a href="{{ item.outbound }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
+    {% elsif item.text %}
+        <li>{{ item.text }}{% if item.due %} due {{ item.due }}{% endif %}</li>
+    {% else %}
+      {% if item == "TBA" %}
+        <li><span class="text-warning">TBA</span></li>
+      {% elsif item == "None" %}
+        <li><span class="text-info">None</span></li>
+      {% else %}
+        <li>{{ item }}</li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for pair in site.data.assignments %}
+    {% assign name = pair[0] %}
+    {% assign assignment = pair[1] %}
+
+    {% if assignment.type == 'workshop' %}
+      {% if day.name == assignment.date %}
+              <li><a href="{{ site.baseurl }}/assignments/{{ name }}"><strong>{{ assignment.title }} - {{ assignment.subtitle }}</strong></a></li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+      </ul>
+    </td>
+{% endfor %}
+
+    <!-- Assignments -->
+    <td>
+
+    {% for date in site.data.dates %}
+      {% if day.name == date.when %}
+        {% assign anything = true %}
+                <strong>{{ date.what }}</strong>
+      {% endif %}
+    {% endfor %}
+
+    </td>
+
+
+{% endif %}
+
+  </tr>
+
+{% endfor %}
+{% endfor %}
+
+</table>

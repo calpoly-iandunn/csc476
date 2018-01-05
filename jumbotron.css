@@ -71,3 +71,22 @@ iframe
 pre {
   padding: 0.5rem;
 }
+
+
+/* table */
+
+.tbl-outline {
+  margin: 0 0 10.5px;
+}
+
+.tbl-outline td {
+  border: 1px solid black;
+  padding: 3px;
+}
+
+.tbl-outline th {
+  border: 1px solid black;
+  border-bottom: 2px solid black;
+  padding: 3px;
+  text-decoration: underline;
+}
