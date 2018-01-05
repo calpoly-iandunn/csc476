@@ -19,13 +19,19 @@ tabs:
     title: Assignments
     link: /assignments
 
+links:
+
   - name: syllabus
     title: Syllabus
     link: /syllabus.html
 
-links:
-  - title: Piazza
-    link: "#"
+  - name: polylearn
+    title: PolyLearn
+    outbound: "https://polylearn.calpoly.edu/AY_2017-2018/course/view.php?id=12489"
+
+  - name: piazza
+    title: Piazza
+    outbound: "https://piazza.com/class/jc20ewbvdud56h"
 
 schedule_columns:
   - name: lecture
