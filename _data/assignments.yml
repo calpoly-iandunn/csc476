@@ -14,16 +14,28 @@ lab01:
 
 
 
-##############
-## Programs ##
-##############
+###############
+## Workshops ##
+###############
 
-program01:
-  title:       Program 1
-  subtitle:    "TBA"
-  type:        program
-  individual:  true
-  assigned:    TBA
-  due:         TBA
-  # github:      https://classroom.github.com/a/RAeEAiIl
-  # basecode:    https://github.com/calpoly-csc471/program01
+workshop01:
+  title:       Workshop 1
+  subtitle:    "View-Frustum Culling"
+  type:        workshop
+  date:        Monday 2/5
+  # basecode:    https://github.com/calpoly-csc476/vfc-basecode
+
+workshop02:
+  title:       Workshop 2
+  subtitle:    "Shadow-Mapping"
+  type:        workshop
+  date:        Monday 2/12
+  # basecode:    https://github.com/calpoly-csc476/shadow-basecode
+
+workshop03:
+  title:       Workshop 3
+  subtitle:    "Post-Processing Effects"
+  type:        workshop
+  date:        Monday 2/26
+  # basecode:    https://github.com/calpoly-csc476/fbo-basecode
+

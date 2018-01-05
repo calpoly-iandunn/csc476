@@ -111,6 +111,7 @@ active: home
             <div class="card-body">
               <h4>{{ column.title }}</h4>
               <ul>
+
     {% for item in day[column.name] %}
       {% if item.link %}
                 <li><a href="{{ item.link | prepend: site.baseurl }}">{{ item.text }}</a>{% if item.due %} due {{ item.due }}{% endif %}</li>
@@ -128,6 +129,18 @@ active: home
         {% endif %}
       {% endif %}
     {% endfor %}
+
+    {% for pair in site.data.assignments %}
+      {% assign name = pair[0] %}
+      {% assign assignment = pair[1] %}
+
+      {% if assignment.type == 'workshop' %}
+        {% if day.name == assignment.date %}
+                <li><a href="{{ site.baseurl }}/assignments/{{ name }}">{{ assignment.title }} - {{ assignment.subtitle }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
               </ul>
             </div>
           </div>
@@ -163,7 +176,7 @@ active: home
     {% for date in site.data.dates %}
       {% if day.name == date.when %}
         {% assign anything = true %}
-                <li>{{ date.what }}</li>
+                <li><strong>{{ date.what }}</strong></li>
       {% endif %}
     {% endfor %}
 

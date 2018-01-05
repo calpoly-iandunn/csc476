@@ -1,0 +1,15 @@
+
+- when: Friday 1/12
+  what: "Game Marketplace in Lab"
+
+- when: Monday 1/29
+  what: "25% Final Project Demo"
+
+- when: Friday 2/16
+  what: "50% Final Project Demo"
+
+- when: Friday 3/2
+  what: "75% Final Project Demo"
+
+- when: Friday 3/16
+  what: "90% Final Project Demo"

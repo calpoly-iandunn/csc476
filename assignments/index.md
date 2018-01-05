@@ -26,7 +26,12 @@ title: "Assignments"
 
 ### In-class workshops:
 
-- Shadow-mapping
-- View-frustum culling
-- Post-processing effects
+{% for pair in site.data.assignments %}
+  {% assign name = pair[0] %}
+  {% assign assignment = pair[1] %}
+
+  {% if assignment.type == 'workshop' %}
+- [{{ assignment.title }} - {{ assignment.subtitle }}]({{ name }}) on {{ assignment.date }}
+  {% endif %}
+{% endfor %}
 
