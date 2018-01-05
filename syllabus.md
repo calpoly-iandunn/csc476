@@ -79,7 +79,7 @@ By the end of the quarter, students will:
 - **14%**: Two individual programming technologies (7% each)
   - OpenGL and C++ technologies integrated into group project
   - Code review required
-- **20%**: Two mid-term exams (10% each)
+- **20%**: Two midterm exams (10% each)
 - **2%**: Final game play assessment
 - **4%**: Participation
   - attend class/talk in class or office hours interaction
