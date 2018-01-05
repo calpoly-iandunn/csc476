@@ -5,7 +5,7 @@ title: Syllabus
 ---
 
 
-# Syllabus for CSC 476: Introduction to Computer Graphics
+# Syllabus for CSC 476: {{ site.data.course.title }}
 
 * **Instructor:** Ian Dunn
 * **Office:** Building 14, Room 209
