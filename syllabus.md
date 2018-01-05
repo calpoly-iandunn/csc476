@@ -65,29 +65,26 @@ By the end of the quarter, students will:
 
 
 
-## Assignments
+## Grading
 
-- 1 pair program (5% of final grade)
-  - OpenGL & C++ application
-- 2 follow-on individual programs (vfc and shadow mapping – 5% each)
-- One large team or individual final programming project (45% of final grade)
+- **5%**: One pair program lab
+  - OpenGL and C++ application
+- **10%**: Two-three in-class workshop programs
+- **45%**: One large team or individual final programming project
   - of your team’s choice (again using OpenGL and C++)
-  - project must be approved by the instructor (see final project proposal &
-rubric)
-  - teams will be 1-6 people – see instructor for exceptions
-  - all teams must meet in quarter deadlines (see syllabus for tentative
-deadlines)
-  - Note that individual assessment (grades) will be made via input from team
-members for each milestone.
-- 2 individual programming technologies (14% of final grade, 7% each)
-  - OpenGL & C++ technologies integrated into group project
+  - project must be approved by the instructor (see final project proposal & rubric)
+  - teams will be 4-6 people – see instructor for exceptions
+  - all teams must meet in quarter deadlines (see syllabus for tentative deadlines)
+  - Note that individual assessment (grades) will be made via input from team members for each milestone
+- **14%**: Two individual programming technologies (7% each)
+  - OpenGL and C++ technologies integrated into group project
   - Code review required
-- 2 mid-term exams (10% of final grade each)
-- Final game play assessment (2% of final grade)
-- Participation (4% of final grade)
-  - attend class/ talk in class or office hours interaction
+- **20%**: Two mid-term exams (10% each)
+- **2%**: Final game play assessment
+- **4%**: Participation
+  - attend class/talk in class or office hours interaction
 
-Please see the program description for deadline details.
+Please see the course website for deadline details.
 There is a strict late policy for all assignments – no late programs/project demos will be accepted.
 
 
@@ -100,6 +97,7 @@ There is a strict late policy for all assignments – no late programs/project d
 
 Recommended:
 
+- [*Game Programming Patterns*](http://gameprogrammingpatterns.com/contents.html) by Bob Nystrom
 - Any good modern graphics OpenGL reference, (e.g. *Foundations of 3D Computer Graphics* by S. Gortler)
 - *Making Comics* and *Understanding Comics* by Scott McCloud
 
@@ -118,7 +116,7 @@ Note some old tutorials do not use modern graphics – if you use them, this can
 You can talk to one another about your solutions and you may look at another student’s code that has a bug
 (I encourage you to help each other with de-bugging), but you cannot look at someone else’s working code.
 
-Note that I expect your OpenGL code to conform to at least OpenGL 3.0 standards (sometimes referred to as "modern graphics")
+Note that I expect your OpenGL code to conform to at least OpenGL 3.2 standards (sometimes referred to as "modern graphics")
 some specifics include no use of immediate mode for rendering and no OpenGL matrix stack calls (instead use `glm`)
 and all shading will be computed using GLSL shaders.
 
