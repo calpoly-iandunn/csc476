@@ -5,6 +5,12 @@ title: "Final Project"
 auto-title: true
 ---
 
+<a href="https://classroom.github.com/g/HU0_GOIm" class="btn btn-info">GitHub Classroom</a>
+
+Use of GitHub Classroom is optional for this assignment,
+but is an easy way to set up a private repository shared between team members.
+
+
 
 ## Overview
 
