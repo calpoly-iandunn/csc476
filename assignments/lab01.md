@@ -4,6 +4,9 @@ assignment: "lab01"
 title: Lab 1
 ---
 
+The above base code is just a recommendation - you can start from any CSC 471 base code, or from any of your past 471 assignments.
+You can also start from scratch if you want!
+
 Please note that this lab can be completed in **pairs** - it is up to you.
 
 
