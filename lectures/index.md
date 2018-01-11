@@ -6,6 +6,7 @@ auto-title: true
 ---
 
 - [0 - Introduction](00-introduction)
+- [0 - Game Genres](00-game-genres)
 - [1 - Graphics Pipeline Review](01-graphics-pipeline)
 - [2 - Simulation Time Steps](02-time-steps)
 

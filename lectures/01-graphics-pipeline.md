@@ -6,6 +6,10 @@ auto-title: true
 ---
 
 
+- C++ and CMake review
+- OpenGL review
+
+
 Graphics Pipeline Review
 ------------------------
 
