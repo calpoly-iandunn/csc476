@@ -32,14 +32,13 @@
     lecture:
       - text: Simulation Time Steps
         link: /lectures/02-time-steps
-      - text: Iterative Prototyping
-      - text: Git Branching Models
       - text: Lab - Game Design Exercise
 
   - name: Friday 1/19
     lecture:
-      - text: Character Animation
-      - text: Physically Based Animation
+      - text: Iterative Prototyping
+      - text: Git Branching Models
+      - text: Software Design
 
 ###############################################################################
 
@@ -49,7 +48,8 @@
 
   - name: Monday 1/22
     lecture:
-      - text: Software Design
+      - text: Character Animation
+      - text: Physically Based Animation
 
   - name: Wednesday 1/24
     lecture:
