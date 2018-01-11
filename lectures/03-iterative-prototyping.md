@@ -5,6 +5,11 @@ title: "Lecture 3: Iterative Prototyping"
 auto-title: true
 ---
 
+
+<a href="https://docs.google.com/presentation/d/1wuKMsX7ioeuFsi0zHZitCQhHMH0HoAtRLEa_ZoAOl6s/edit?usp=sharing" class="btn btn-info">Slide Deck</a>
+
+
+
 ## Iterative Design
 
 Tips for people who want to design games -
