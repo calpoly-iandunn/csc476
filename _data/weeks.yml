@@ -26,7 +26,7 @@
   days:
 
   - name: Monday 1/15
-    override: Academic Holiday - MLK, Jr.'s Birthday Observed
+    override: "<strong>Academic Holiday</strong> - MLK, Jr.'s Birthday Observed"
 
   - name: Wednesday 1/17
     lecture:
