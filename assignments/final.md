@@ -25,6 +25,8 @@ This marketplace is a chance for potential managers or team members to "pitch" t
 Ideally, teams of size 4 are formed.
 All games must meet the required technical requirements.
 
+<a href="https://drive.google.com/file/d/1szFqFMXgwGhsneo5m6VzIMx0QfGI-YPM/view?usp=sharing" class="btn btn-info">Example Pitches</a>
+
 
 ### Requirements
 
