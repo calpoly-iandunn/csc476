@@ -23,28 +23,26 @@ Breath of the Wild is a recent title from Nintendo that adds open-world elements
 
 
 
-## In The Software World
+## Project Management Frameworks
 
-The Waterfall Model is a Project Management framework.
-Most of the time, in this major, when you hear people talk about this, it’s as a software development methodology.
-The idea is that it’s a waterfall that takes you from the start of the project to the end.
+### The Waterfall Model
+
+It’s a waterfall that takes you from the start of the project to the end.
 
 {% include image-block.html file="03-figure-waterfall.png" alt="Waterfall Model" %}
 
 Bonus question: What is "Verification" for us as game designers? Playtesting!
 
-The problem with the waterfall model is (intentionally) in the name.
-While a waterfall is great for going down, it is very difficult to go the other way on a waterfall.
-What happens if when you’re in Verification, you realize that you didn’t quite get one of the requirements right.
-You go all the way back up, and have to make changes all the way along here.
 
+### Agile
 
-An iterative model means taking those steps of the waterfall, making them smaller, and doing them on repeat - in a loop.
-People have done a lot of work on this from the software engineering standpoint.
-Later in the quarter we are going to talk about some of these software engineering methodologies in a little bit more detail.
-We’ll want to know about them not only because we are working on software projects in this class and want to apply them to our software development,
-But also because there is a lot in common between the iterative design process in general and the “Playcentric Design Process” from our book (and similar iterative approaches you will find in other game design textbooks).
+There's a lot involved in the Agile project management framework that's outside of the scope of this course.
+See: [The Agile Manifesto](http://agilemanifesto.org/).
 
-The most important thing I want you all to think about now is that you shouldn’t try to design your entire game first, and then travel down the waterfall.
+{% include image-block.html file="03-figure-agile.png" alt="Agile Model" %}
+
+For this class, just think about this:
+
+You shouldn’t try to design your entire game first, and then travel down the waterfall.
 Think in terms of trying to take small components of your game and go down a mini waterfall.
 Try things out, prototype them, and test them.

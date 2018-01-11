@@ -37,7 +37,9 @@
   - name: Friday 1/19
     lecture:
       - text: Iterative Prototyping
+        link: /lectures/03-iterative-prototyping
       - text: Git Branching Models
+        link: /lectures/04-git-branching
       - text: Software Design
 
 ###############################################################################
