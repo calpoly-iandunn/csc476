@@ -32,7 +32,6 @@
     lecture:
       - text: Simulation Time Steps
         link: /lectures/02-time-steps
-      - text: Lab - Game Design Exercise
 
   - name: Friday 1/19
     lecture:
@@ -41,6 +40,7 @@
       - text: Git Branching Models
         link: /lectures/04-git-branching
       - text: Software Design
+      - text: Lab - Game Design Exercise
 
 ###############################################################################
 
