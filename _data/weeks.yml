@@ -30,16 +30,12 @@
 
   - name: Wednesday 1/17
     lecture:
-      - text: Simulation Time Steps
-        link: /lectures/02-time-steps
+      - text: OpenGL Review
 
   - name: Friday 1/19
     lecture:
-      - text: Iterative Prototyping
-        link: /lectures/03-iterative-prototyping
-      - text: Git Branching Models
-        link: /lectures/04-git-branching
-      - text: Software Design
+      - text: Simulation Time Steps
+        link: /lectures/02-time-steps
       - text: Lab - Game Design Exercise
 
 ###############################################################################
@@ -50,15 +46,20 @@
 
   - name: Monday 1/22
     lecture:
-      - text: Character Animation
-      - text: Physically Based Animation
+      - text: Iterative Prototyping
+        link: /lectures/03-iterative-prototyping
+      - text: Git Branching Models
+        link: /lectures/04-git-branching
+      - text: Software Design
 
   - name: Wednesday 1/24
     lecture:
-      - text: Game Design Patterns
+      - text: Character Animation
+      - text: Physically Based Animation
 
   - name: Friday 1/26
     lecture:
+      - text: Game Design Patterns
       - text: Component-Entity Systems
 
 ###############################################################################
