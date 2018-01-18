@@ -157,3 +157,9 @@ Your team grade counts toward 45% of your course grade, your individual technolo
 ### Playability Testing – 90% assessment:
 
 Note that in addition to the 45% of your final grade for your team’s game, which will be evaluated throughout the quarter for your final project, we will have some in class playability testing, during the 90% assessment time period.  This will be a chance for 5 members of the class not on your team to play your game.  Your team will need to have your game installed and ready to play by others in the class.  A strict rubric for grading one another’s games will be provided and you will grade one another’s game.  This playability assessment, (assuming all issues that can be addressed will be), will account for 2% of your final grade.
+
+
+## Grading
+
+- **No late programs** will be accepted.
+- Your final grade will be the culmination of your demos throughout the quarter as specified earlier in this document.

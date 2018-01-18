@@ -15,16 +15,16 @@ You will not be strictly held to this document but it serves as an initial contr
 This is an opportunity to start working on where you will get your assets (character models, world) what the look and feel will be, and what type of interactions you will support.
 You are required to include in the write up:
 
-1.  A storyboard overview drawing of your game
-2.  1.5)  a general description of the game
+1.  a storyboard overview drawing of your game
+2.  a general description of the game
 3.  a short description of the environment for the game (what it will look like and where you will get the models for the environment, e.g. terrain, etc.)
 4.  a short description of the characters in the game (what they will look like and where you will get the models)
 5.  a short description of the goal of the game (what is the character trying to do? what tools does the character have to achieve this goal?)
 6.  a short description of the animations that will be used for moving the character (and any other moving aspects of the environment)
 7.  a short description of the general rules of the game
 8.  a short description of who will tackle which major and general graphics technology and which will be included in the game <look at the technology list - don’t hog the fun ones>
-9.  a description of the “one cool” thing that your team will emphasize in the game (i.e. the one thing you will make look really cool or interact in a sophisticated way, etc.)
-10. Some concept art to convey the look and feel of your game (you may use the same concept art used in your presentation!)
+9.  a description of the "one cool" thing that your team will emphasize in the game (i.e. the one thing you will make look really cool or interact in a sophisticated way, etc.)
+10. some concept art to convey the look and feel of your game (you may use the same concept art used in your pitch!)
 
 **Due approximately one week after team formation!**
 
