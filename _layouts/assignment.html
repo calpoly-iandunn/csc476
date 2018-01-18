@@ -5,7 +5,11 @@ active: assignments
 
 {% assign assignment = site.data.assignments[page.assignment] %}
 
+{% if assignment.subtitle %}
 <h1>{{ assignment.title }} - {{ assignment.subtitle }}</h1>
+{% else %}
+<h1>{{ assignment.title }}</h1>
+{% endif %}
 
 {% if assignment.github %}
 <p><a href="{{ assignment.github }}" class="btn btn-info">GitHub Classroom Assignment Page</a></p>

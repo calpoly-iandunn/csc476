@@ -66,6 +66,18 @@ auto-title: true
     <!-- Assignments -->
     <td>
 
+
+    {% for pair in site.data.assignments %}
+      {% assign name = pair[0] %}
+      {% assign assignment = pair[1] %}
+
+      {% if assignment.type == 'project' %}
+        {% if day.name == assignment.due %}
+                <a href="{{ site.baseurl }}/assignments/{{ name }}"><strong>{{ assignment.title }}</strong></a> is due
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
     {% for date in site.data.dates %}
       {% if day.name == date.when %}
         {% assign anything = true %}

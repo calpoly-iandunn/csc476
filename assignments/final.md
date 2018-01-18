@@ -154,53 +154,6 @@ Your team grade counts toward 45% of your course grade, your individual technolo
 
 
 
-## Formalized Game Proposal:
-
-Each team must submit a 1-2 page write-up describing your final project and game design in more detail
-(in general I prefer short and concise - bullet lists are great, the proposal can be longer then 2 pages if it has lots of images).
-Be sure to provide the team members names along with a designation of who the project manager is, on all submissions!
-
-You will not be strictly held to this document but it serves as an initial contract between your team and I about what will be included in your project.
-This is an opportunity to start working on where you will get your assets (character models, world) what the look and feel will be, and what type of interactions you will support.
-You are required to include in the write up:
-
-1.  A storyboard overview drawing of your game
-2.  1.5)  a general description of the game
-3.  a short description of the environment for the game (what it will look like and where you will get the models for the environment, e.g. terrain, etc.)
-4.  a short description of the characters in the game (what they will look like and where you will get the models)
-5.  a short description of the goal of the game (what is the character trying to do? what tools does the character have to achieve this goal?)
-6.  a short description of the animations that will be used for moving the character (and any other moving aspects of the environment)
-7.  a short description of the general rules of the game
-8.  a short description of who will tackle which major and general graphics technology and which will be included in the game <look at the technology list - don’t hog the fun ones>
-9.  a description of the “one cool” thing that your team will emphasize in the game (i.e. the one thing you will make look really cool or interact in a sophisticated way, etc.)
-10. Some concept art to convey the look and feel of your game (you may use the same concept art used in your presentation!)
-
-**Due one week after team formation!**
-
-
-
-## Final demo/report requirements held during final exam period
-
-- Project Demonstration. Each team will have 10-15 minutes to present their final project to the class.
-  In addition, we will have some in class playability testing, where each team should have a playable version of their game set-up for class mates to try and assess
-  (this will happen at the 90% demo and it is expected that for 100% your team will have addressed major issues that arise in the game play assessment).
-- Project Report - this is in the form of a web page and should contain the following information.
-  Also note that links should be relative (not absolute paths), and that you should submit the html and all necessary image and animation files in the same directory.
-- brief description of your project,
-- **All team members names**
-- a mini user's guide,
-- sample output i.e. images
-- **_a short animation clip of your game is required_**
-- a list of all references used (e.g. tutorials, research papers, etc.)
-- A list of what the team implemented for each required technology
-  - a project executable
-  - Project submission (through GitHub Classroom) information will be provided later.
-
-Project Grading:
-
-- **No late programs** will be accepted.
-- Your final grade will be the culmination of your demos throughout the quarter as specified earlier in this document.
-
 ### Playability Testing – 90% assessment:
 
 Note that in addition to the 45% of your final grade for your team’s game, which will be evaluated throughout the quarter for your final project, we will have some in class playability testing, during the 90% assessment time period.  This will be a chance for 5 members of the class not on your team to play your game.  Your team will need to have your game installed and ready to play by others in the class.  A strict rubric for grading one another’s games will be provided and you will grade one another’s game.  This playability assessment, (assuming all issues that can be addressed will be), will account for 2% of your final grade.

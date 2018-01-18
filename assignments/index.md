@@ -10,6 +10,17 @@ title: "Assignments"
 
 [Final Project Description](final)
 
+### Components/Deliverables:
+
+{% for pair in site.data.assignments %}
+  {% assign name = pair[0] %}
+  {% assign assignment = pair[1] %}
+
+  {% if assignment.type == 'project' %}
+- [{{ assignment.title }}]({{ name }}) due {{ assignment.due }}
+  {% endif %}
+{% endfor %}
+
 
 ## Programs
 

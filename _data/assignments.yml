@@ -40,3 +40,18 @@ workshop03:
   date:        Monday 2/26
   # basecode:    https://github.com/calpoly-csc476/fbo-basecode
 
+
+
+##############################
+## Final Project Components ##
+##############################
+
+final-proposal:
+  title: Final Project Game Proposal
+  type: project
+  due: Wednesday 1/24
+
+final-demo:
+  title: Final Project Demo/Presentation
+  type: project
+  due: Wednesday 3/21
