@@ -46,16 +46,15 @@
 
   - name: Monday 1/22
     lecture:
+      - text: Prior Student Q & A
       - text: Iterative Prototyping
         link: /lectures/03-iterative-prototyping
-      - text: Git Branching Models
-        link: /lectures/04-git-branching
-      - text: Software Design
 
   - name: Wednesday 1/24
     lecture:
-      - text: Character Animation
-      - text: Physically Based Animation
+      - text: Git Branching Models
+        link: /lectures/04-git-branching
+      - text: Software Design
 
   - name: Friday 1/26
     lecture:
@@ -70,7 +69,8 @@
 
   - name: Monday 1/29
     lecture:
-      - text: Terrain Geometry
+      - text: Character Animation
+      - text: Physically Based Animation
 
   - name: Wednesday 1/31
     lecture:
@@ -92,13 +92,12 @@
 
   - name: Wednesday 2/7
     lecture:
-      - text: Lighting Review
-      - text: Advanced Texturing
+      - text: Terrain Geometry
 
   - name: Friday 2/9
     lecture:
-      - text: Shadows
-      - text: Light Maps
+      - text: Lighting Review
+      - text: Advanced Texturing
 
 ###############################################################################
 
@@ -116,7 +115,9 @@
 
   - name: Friday 2/16
     lecture:
-      - text: Screen-Space Ambient Occlusion
+      - text: Shadows
+      - text: Light Maps
+      - text: Global Illumination
 
 ###############################################################################
 
@@ -126,16 +127,17 @@
 
   - name: Tuesday 2/20
     lecture:
+      - text: Screen-Space Ambient Occlusion
       - text: Physically-Based Rendering
 
   - name: Wednesday 2/21
     lecture:
-      - text: Global Illumination
+      - text: Polygonal Meshes
+      - text: Voxels
 
   - name: Friday 2/23
     lecture:
-      - text: Polygonal Meshes
-      - text: Voxels
+      - text: Parametric Geometry
 
 ###############################################################################
 
@@ -149,11 +151,11 @@
 
   - name: Wednesday 2/28
     lecture:
-      - text: Parametric Geometry
+      - text: Culling Algorithms
 
   - name: Friday 3/2
     lecture:
-      - text: Culling Algorithms
+      - text: Skinned Mesh Animation
 
 ###############################################################################
 
@@ -163,15 +165,14 @@
 
   - name: Monday 3/5
     lecture:
-      - text: Skinned Mesh Animation
+      - text: Inverse Kinematics
 
   - name: Wednesday 3/7
     lecture:
-      - text: Inverse Kinematics
+      - text: Particle Systems
 
   - name: Friday 3/9
     lecture:
-      - text: Particle Systems
       - text: Geometry Shaders
 
 ###############################################################################
