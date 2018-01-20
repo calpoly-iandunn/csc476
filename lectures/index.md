@@ -13,10 +13,10 @@ auto-title: true
 - [4 - Simulation Time Steps](04-time-steps)
 - [5 - Iterative Prototyping](05-iterative-prototyping)
 - [6 - Git Branching Models](06-git-branching)
+- [7 - Software Design](07-software-design)
 
 
 <!--
-- [7 - Software Design](07-software-design)
 - [8 - Game Programming Patterns](08-game-patterns)
 - [9 - Component-Entity Systems](09-component-entity)
 - [10 - Character Animation](10-character-animation)

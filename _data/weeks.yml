@@ -55,6 +55,7 @@
       - text: Git Branching Models
         link: /lectures/06-git-branching
       - text: Software Design
+        link: /lectures/07-software-design
 
   - name: Friday 1/26
     lecture:
