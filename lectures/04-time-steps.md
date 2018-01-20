@@ -1,9 +1,11 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 2: Simulation Time Steps"
+title: "Lecture 4: Simulation Time Steps"
 auto-title: true
 ---
+
+
 
 ## Frames
 
@@ -239,3 +241,11 @@ But, it makes it so that our game will always look smooth even with very high fr
 Going forward this is becoming more important since screens with 120Hz and 144Hz refresh rates are becoming more prevalent.
 
 And don't forget that human reaction time is 250ms for visual stimulus.
+
+
+
+## References
+
+- https://gafferongames.com/post/fix_your_timestep/
+- http://lspiroengine.com/?p=378
+- http://www.koonsolo.com/news/dewitters-gameloop/

@@ -1,7 +1,7 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 0: Game Genres"
+title: "Lecture 1: Game Genres"
 auto-title: true
 ---
 

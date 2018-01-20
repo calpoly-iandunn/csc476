@@ -1,7 +1,7 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 3: Iterative Prototyping"
+title: "Lecture 5: Iterative Prototyping"
 auto-title: true
 ---
 
@@ -34,7 +34,7 @@ Breath of the Wild is a recent title from Nintendo that adds open-world elements
 
 It’s a waterfall that takes you from the start of the project to the end.
 
-{% include image-block.html file="03-figure-waterfall.png" alt="Waterfall Model" %}
+{% include image-block.html file="05-figure-waterfall.png" alt="Waterfall Model" %}
 
 Bonus question: What is "Verification" for us as game designers? Playtesting!
 
@@ -44,7 +44,7 @@ Bonus question: What is "Verification" for us as game designers? Playtesting!
 There's a lot involved in the Agile project management framework that's outside of the scope of this course.
 See: [The Agile Manifesto](http://agilemanifesto.org/).
 
-{% include image-block.html file="03-figure-agile.png" alt="Agile Model" %}
+{% include image-block.html file="05-figure-agile.png" alt="Agile Model" %}
 
 For this class, just think about this:
 

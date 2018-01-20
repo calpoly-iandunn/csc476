@@ -1,15 +1,16 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 4: Git Branching Models"
+title: "Lecture 6: Git Branching Models"
 auto-title: true
 ---
+
 
 <a href="https://docs.google.com/presentation/d/1RltU_3Qx-kpd_FQPzVMkpTWEQHMLButBSBuRO1nNgIQ/edit?usp=sharing" class="btn btn-info">Git Practices Slides</a>
 
 ## Git Branches
 
-![git branches](04-figure-git-branches.png){:class="img-thumbnail"}
+![git branches](06-figure-git-branches.png){:class="img-thumbnail"}
 
 A **branch** in a git repository is just a name associated with a particular commit.
 

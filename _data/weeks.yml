@@ -12,12 +12,12 @@
   - name: Wednesday 1/10
     lecture:
       - text: Game Genres
-        link: /lectures/00-game-genres
+        link: /lectures/01-game-genres
 
   - name: Friday 1/12
     lecture:
       - text: Graphics Pipeline Review
-        link: /lectures/01-graphics-pipeline
+        link: /lectures/02-graphics-pipeline
 
 ###############################################################################
 
@@ -31,12 +31,12 @@
   - name: Wednesday 1/17
     lecture:
       - text: OpenGL Review
+        link: /lectures/03-opengl-review
 
   - name: Friday 1/19
     lecture:
       - text: Simulation Time Steps
-        link: /lectures/02-time-steps
-      - text: Lab - Game Design Exercise
+        link: /lectures/04-time-steps
 
 ###############################################################################
 
@@ -48,18 +48,19 @@
     lecture:
       - text: Prior Student Q & A
       - text: Iterative Prototyping
-        link: /lectures/03-iterative-prototyping
+        link: /lectures/05-iterative-prototyping
 
   - name: Wednesday 1/24
     lecture:
       - text: Git Branching Models
-        link: /lectures/04-git-branching
+        link: /lectures/06-git-branching
       - text: Software Design
 
   - name: Friday 1/26
     lecture:
       - text: Game Design Patterns
       - text: Component-Entity Systems
+      - text: Lab - Game Design Exercise
 
 ###############################################################################
 
