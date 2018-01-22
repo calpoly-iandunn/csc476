@@ -51,3 +51,16 @@ For this class, just think about this:
 You shouldn’t try to design your entire game first, and then travel down the waterfall.
 Think in terms of trying to take small components of your game and go down a mini waterfall.
 Try things out, prototype them, and test them.
+
+
+
+
+## Iterative Engine Design
+
+[How to Write Your Own C++ Game Engine](http://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
+
+
+
+## Working In Silos
+
+- Relic demo
