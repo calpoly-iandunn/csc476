@@ -47,21 +47,21 @@
   - name: Monday 1/22
     lecture:
       - text: Prior Student Q & A
-      - text: Iterative Prototyping
-        link: /lectures/05-iterative-prototyping
 
   - name: Wednesday 1/24
     lecture:
+      - text: Wrap-up Simulation Time Steps
+      - text: Iterative Prototyping
+        link: /lectures/05-iterative-prototyping
       - text: Git Branching Models
         link: /lectures/06-git-branching
-      - text: Software Design
-        link: /lectures/07-software-design
 
   - name: Friday 1/26
     lecture:
+      - text: Software Design
+        link: /lectures/07-software-design
       - text: Game Design Patterns
       - text: Component-Entity Systems
-      - text: Lab - Game Design Exercise
 
 ###############################################################################
 
@@ -100,6 +100,7 @@
     lecture:
       - text: Lighting Review
       - text: Advanced Texturing
+      - text: Lab - Game Design Exercise
 
 ###############################################################################
 
