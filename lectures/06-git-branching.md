@@ -6,6 +6,7 @@ auto-title: true
 ---
 
 
+<a href="https://docs.google.com/presentation/d/14ijA6h58QMpLgZpVykODoIXE8THFRp3Dmjb911ZfSek/edit?usp=sharing" class="btn btn-info">Slide Deck</a>
 <a href="https://docs.google.com/presentation/d/1RltU_3Qx-kpd_FQPzVMkpTWEQHMLButBSBuRO1nNgIQ/edit?usp=sharing" class="btn btn-info">Git Practices Slides</a>
 
 ## Git Branches
