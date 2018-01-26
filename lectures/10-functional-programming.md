@@ -7,8 +7,5 @@ auto-title: true
 
 
 
-
-## Functional Programming
-
 - Side effects/mutation
 

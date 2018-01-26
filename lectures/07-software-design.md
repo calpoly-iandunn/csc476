@@ -62,3 +62,5 @@ This is my approach:
 
 - Make refactoring a consistent and essential part of your development process.
   Always write code with the intention of cleaning and organizing it once the functionality falls into place.
+
+
