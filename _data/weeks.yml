@@ -60,8 +60,10 @@
     lecture:
       - text: Software Design
         link: /lectures/07-software-design
-      - text: Game Design Patterns
-      - text: Component-Entity Systems
+      - text: Object-Oriented Design
+        link: /lectures/08-object-oriented-design
+      - text: Data-Oriented Design
+        link: /lectures/09-data-oriented-design
 
 ###############################################################################
 
@@ -71,16 +73,19 @@
 
   - name: Monday 1/29
     lecture:
-      - text: Character Animation
-      - text: Physically Based Animation
+      - text: Functional Programming
+        link: /lectures/10-functional-programming
+      - text: Game Design Patterns
+      - text: Component-Entity Systems
 
   - name: Wednesday 1/31
     lecture:
-      - text: Spatial Data Structures 1
+      - text: Character Animation
+      - text: Physically Based Animation
 
   - name: Friday 2/2
     lecture:
-      - text: Spatial Data Structures 2
+      - text: Spatial Data Structures
 
 ###############################################################################
 

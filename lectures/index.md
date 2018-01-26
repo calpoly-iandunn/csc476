@@ -14,11 +14,14 @@ auto-title: true
 - [5 - Iterative Prototyping](05-iterative-prototyping)
 - [6 - Git Branching Models](06-git-branching)
 - [7 - Software Design](07-software-design)
+- [8 - Object-Oriented Design](08-object-oriented-design)
+- [9 - Data-Oriented Design](09-data-oriented-design)
+- [10 - Functional Design](10-functional-programming)
 
 
 <!--
-- [8 - Game Programming Patterns](08-game-patterns)
-- [9 - Component-Entity Systems](09-component-entity)
-- [10 - Character Animation](10-character-animation)
-- [11 - Physically-Based Animation](11-physical-animation)
+- [11 - Game Programming Patterns](11-game-patterns)
+- [12 - Component-Entity Systems](12-component-entity)
+- [13 - Character Animation](13-character-animation)
+- [14 - Physically-Based Animation](14-physical-animation)
 -->
