@@ -53,17 +53,11 @@
       - text: Wrap-up Simulation Time Steps
       - text: Iterative Prototyping
         link: /lectures/05-iterative-prototyping
-      - text: Git Branching Models
-        link: /lectures/06-git-branching
 
   - name: Friday 1/26
     lecture:
-      - text: Software Design
-        link: /lectures/07-software-design
-      - text: Object-Oriented Design
-        link: /lectures/08-object-oriented-design
-      - text: Data-Oriented Design
-        link: /lectures/09-data-oriented-design
+      - text: Git Branching Models
+        link: /lectures/06-git-branching
 
 ###############################################################################
 
@@ -73,19 +67,24 @@
 
   - name: Monday 1/29
     lecture:
+      - text: Software Design
+        link: /lectures/07-software-design
+      - text: Object-Oriented Design
+        link: /lectures/08-object-oriented-design
+      - text: Data-Oriented Design
+        link: /lectures/09-data-oriented-design
       - text: Functional Programming
         link: /lectures/10-functional-programming
-      - text: Game Design Patterns
-      - text: Component-Entity Systems
 
   - name: Wednesday 1/31
     lecture:
-      - text: Character Animation
-      - text: Physically Based Animation
+      - text: Game Design Patterns
+      - text: Component-Entity Systems
 
   - name: Friday 2/2
     lecture:
-      - text: Spatial Data Structures
+      - text: Character Animation
+      - text: Physically Based Animation
 
 ###############################################################################
 
@@ -95,17 +94,15 @@
 
   - name: Monday 2/5
     lecture:
-      # Workshop
+      - text: Spatial Data Structures
 
   - name: Wednesday 2/7
     lecture:
-      - text: Terrain Geometry
+      # Workshop
 
   - name: Friday 2/9
     lecture:
-      - text: Lighting Review
-      - text: Advanced Texturing
-      - text: Lab - Game Design Exercise
+      - text: Terrain Geometry
 
 ###############################################################################
 
@@ -115,17 +112,17 @@
 
   - name: Monday 2/12
     lecture:
-      # Workshop
+      - text: Lighting Review
+      - text: Advanced Texturing
+      - text: Lab - Game Design Exercise
 
   - name: Wednesday 2/14
     lecture:
-      - text: Midterm 1
+      # Workshop
 
   - name: Friday 2/16
     lecture:
-      - text: Shadows
-      - text: Light Maps
-      - text: Global Illumination
+      - text: Midterm 1
 
 ###############################################################################
 
@@ -135,17 +132,19 @@
 
   - name: Tuesday 2/20
     lecture:
-      - text: Screen-Space Ambient Occlusion
-      - text: Physically-Based Rendering
+      - text: Shadows
+      - text: Light Maps
+      - text: Global Illumination
 
   - name: Wednesday 2/21
     lecture:
-      - text: Polygonal Meshes
-      - text: Voxels
+      - text: Screen-Space Ambient Occlusion
+      - text: Physically-Based Rendering
 
   - name: Friday 2/23
     lecture:
-      - text: Parametric Geometry
+      - text: Polygonal Meshes
+      - text: Voxels
 
 ###############################################################################
 
@@ -155,15 +154,15 @@
 
   - name: Monday 2/26
     lecture:
-      # Workshop
+      - text: Parametric Geometry
 
   - name: Wednesday 2/28
     lecture:
-      - text: Culling Algorithms
+      # Workshop
 
   - name: Friday 3/2
     lecture:
-      - text: Skinned Mesh Animation
+      - text: Culling Algorithms
 
 ###############################################################################
 
@@ -173,6 +172,7 @@
 
   - name: Monday 3/5
     lecture:
+      - text: Skinned Mesh Animation
       - text: Inverse Kinematics
 
   - name: Wednesday 3/7
