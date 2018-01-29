@@ -16,10 +16,10 @@ auto-title: true
 - [7 - Software Design](07-software-design)
 - [8 - Object-Oriented Design](08-object-oriented-design)
 - [9 - Data-Oriented Design](09-data-oriented-design)
+- [10 - Game Programming Patterns](10-game-patterns)
 
 
 <!--
-- [10 - Game Programming Patterns](10-game-patterns)
 - [11 - Component-Entity Systems](11-component-entity)
 - [12 - Character Animation](12-character-animation)
 - [13 - Physically-Based Animation](13-physical-animation)
