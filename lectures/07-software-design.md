@@ -6,7 +6,7 @@ auto-title: true
 ---
 
 
-<a href="https://docs.google.com/presentation/d/10qUs3HXhfZMF6fia7hmKYRAJU4jUfSal0slutLOotLI/edit?usp=sharing" class="btn btn-info">Slide Deck</a>
+<a href="https://docs.google.com/presentation/d/1DRA5PmtHwlgXofexA2OzfP0Q0F3m8wSKMeOsvur0hF8/edit?usp=sharing" class="btn btn-info">Slide Deck</a>
 
 
 One of the central ideas of this class is that we don't have enough time.

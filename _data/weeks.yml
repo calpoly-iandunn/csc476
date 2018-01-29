@@ -73,8 +73,6 @@
         link: /lectures/08-object-oriented-design
       - text: Data-Oriented Design
         link: /lectures/09-data-oriented-design
-      - text: Functional Programming
-        link: /lectures/10-functional-programming
 
   - name: Wednesday 1/31
     lecture:

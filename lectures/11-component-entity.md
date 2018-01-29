@@ -1,7 +1,7 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 9: Component-Entity Systems"
+title: "Lecture 11: Component-Entity Systems"
 auto-title: true
 ---
 

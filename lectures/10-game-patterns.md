@@ -1,7 +1,7 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 8: Game Design Patterns"
+title: "Lecture 10: Game Design Patterns"
 auto-title: true
 ---
 
