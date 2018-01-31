@@ -17,9 +17,9 @@ auto-title: true
 - [8 - Object-Oriented Design](08-object-oriented-design)
 - [9 - Data-Oriented Design](09-data-oriented-design)
 - [10 - Game Programming Patterns](10-game-patterns)
+- [11 - Character Animation](11-character-animation)
 
 
 <!--
-- [11 - Character Animation](11-character-animation)
 - [12 - Physically-Based Animation](12-physical-animation)
 -->

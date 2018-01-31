@@ -1,7 +1,7 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 13: Physically-Based Animation"
+title: "Lecture 12: Physically-Based Animation"
 auto-title: true
 ---
 

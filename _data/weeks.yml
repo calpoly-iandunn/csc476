@@ -82,6 +82,7 @@
   - name: Friday 2/2
     lecture:
       - text: Character Animation
+        link: /lectures/11-character-animation
       - text: Physically Based Animation
 
 ###############################################################################
