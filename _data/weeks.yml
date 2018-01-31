@@ -78,7 +78,6 @@
     lecture:
       - text: Game Design Patterns
         link: /lectures/10-game-patterns
-      - text: Component-Entity Systems
 
   - name: Friday 2/2
     lecture:

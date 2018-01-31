@@ -20,7 +20,6 @@ auto-title: true
 
 
 <!--
-- [11 - Component-Entity Systems](11-component-entity)
-- [12 - Character Animation](12-character-animation)
-- [13 - Physically-Based Animation](13-physical-animation)
+- [11 - Character Animation](11-character-animation)
+- [12 - Physically-Based Animation](12-physical-animation)
 -->
