@@ -81,9 +81,8 @@
 
   - name: Friday 2/2
     lecture:
-      - text: Character Animation
-        link: /lectures/11-character-animation
-      - text: Physically Based Animation
+      - text: Game Design Patterns, cont.
+        link: /lectures/10-game-patterns
 
 ###############################################################################
 
@@ -93,15 +92,16 @@
 
   - name: Monday 2/5
     lecture:
-      - text: Spatial Data Structures
+      - text: Character Animation
+        link: /lectures/11-character-animation
 
   - name: Wednesday 2/7
     lecture:
-      # Workshop
+      - text: Spatial Data Structures
 
   - name: Friday 2/9
     lecture:
-      - text: Terrain Geometry
+      # Workshop
 
 ###############################################################################
 
@@ -113,15 +113,15 @@
     lecture:
       - text: Lighting Review
       - text: Advanced Texturing
-      - text: Lab - Game Design Exercise
 
   - name: Wednesday 2/14
     lecture:
-      # Workshop
+      - text: Shadows
+      - text: Light Maps
 
   - name: Friday 2/16
     lecture:
-      - text: Midterm 1
+      # Workshop
 
 ###############################################################################
 
@@ -131,19 +131,15 @@
 
   - name: Tuesday 2/20
     lecture:
-      - text: Shadows
-      - text: Light Maps
-      - text: Global Illumination
+      - text: Midterm Review
 
   - name: Wednesday 2/21
     lecture:
-      - text: Screen-Space Ambient Occlusion
-      - text: Physically-Based Rendering
+      - text: Midterm 1
 
   - name: Friday 2/23
     lecture:
-      - text: Polygonal Meshes
-      - text: Voxels
+      # Workshop
 
 ###############################################################################
 
@@ -153,11 +149,15 @@
 
   - name: Monday 2/26
     lecture:
-      - text: Parametric Geometry
+      - text: Global Illumination
+      - text: Screen-Space Ambient Occlusion
+      - text: Physically-Based Rendering
 
   - name: Wednesday 2/28
     lecture:
-      # Workshop
+      - text: Polygonal Meshes
+      - text: Parametric Geometry
+      - text: Voxels
 
   - name: Friday 3/2
     lecture:

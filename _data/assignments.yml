@@ -23,21 +23,21 @@ workshop01:
   title:       Workshop 1
   subtitle:    "View-Frustum Culling"
   type:        workshop
-  date:        Wednesday 2/7
+  date:        Friday 2/9
   # basecode:    https://github.com/calpoly-csc476/vfc-basecode
 
 workshop02:
   title:       Workshop 2
   subtitle:    "Shadow-Mapping"
   type:        workshop
-  date:        Wednesday 2/14
+  date:        Friday 2/16
   # basecode:    https://github.com/calpoly-csc476/shadow-basecode
 
 workshop03:
   title:       Workshop 3
   subtitle:    "Post-Processing Effects"
   type:        workshop
-  date:        Wednesday 2/28
+  date:        Friday 2/23
   # basecode:    https://github.com/calpoly-csc476/fbo-basecode
 
 
