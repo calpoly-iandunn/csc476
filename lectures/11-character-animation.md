@@ -106,6 +106,18 @@ $$ p = p_0 * (1 - t) + p_1 * t $$
 - Scales? Yes.
 - Rotations? Nope.
 
+### Rotations
+
+First, let's just generally talk about rotations.
+
+* Euler angles
+  * Rotation matrix for each axis, apply
+  * Order can be anything
+* Rotation matrix
+  * The columns form the basis vectors
+  * Orthonomal basis vectors
+
+
 ### Rotation Interpolation
 
 Well, there wouldn't be a section here if it wasn't possible.
@@ -143,13 +155,13 @@ glm::quat q = glm::quat(matrix);
 And you can easily [interpolated between two quaternions](https://glm.g-truc.net/0.9.0/api/a00135.html#a99e0097254662e3d4d5859fa329762ca):
 
 ```cpp
-glm::quat q = glm::gtx::quaternion::mix(q0, g1, 0.5f);
+glm::quat q = glm::slerp(q0, q1, 0.5f);
 ```
 
 And finally, you can get a rotation matrix back from the quaternion:
 
 ```cpp
-glm::mat4 m = glm::gtc::quaternion::mat4_cast(q);
+glm::mat4 m = glm::mat4_cast(q);
 ```
 
 
