@@ -129,4 +129,8 @@ blockquote {
   p > img {
 
   }
+
+  .navbar {
+    display: none;
+  }
 }
