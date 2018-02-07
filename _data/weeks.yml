@@ -76,12 +76,12 @@
 
   - name: Wednesday 1/31
     lecture:
-      - text: Game Design Patterns
+      - text: Game Programming Patterns
         link: /lectures/10-game-patterns
 
   - name: Friday 2/2
     lecture:
-      - text: Game Design Patterns, cont.
+      - text: Game Programming Patterns, cont.
         link: /lectures/10-game-patterns
 
 ###############################################################################
@@ -97,11 +97,14 @@
 
   - name: Wednesday 2/7
     lecture:
-      - text: Spatial Data Structures
+      - text: Rotation Representations
+        link: /lectures/12-rotation
+      - text: Culling Techniques
+        link: /lectures/13-culling
 
   - name: Friday 2/9
     lecture:
-      # Workshop
+      # Workshop - View Frustum Culling
 
 ###############################################################################
 

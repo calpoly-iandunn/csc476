@@ -18,8 +18,6 @@ auto-title: true
 - [9 - Data-Oriented Design](09-data-oriented-design)
 - [10 - Game Programming Patterns](10-game-patterns)
 - [11 - Character Animation](11-character-animation)
+- [12 - Rotation Representations](12-rotation)
+- [13 - Culling Techniques](13-culling)
 
-
-<!--
-- [12 - Physically-Based Animation](12-physical-animation)
--->
