@@ -24,7 +24,7 @@ workshop01:
   subtitle:    "View-Frustum Culling"
   type:        workshop
   date:        Friday 2/9
-  # basecode:    https://github.com/calpoly-csc476/vfc-basecode
+  basecode:    https://github.com/calpoly-csc476/vfc-workshop-basecode
 
 workshop02:
   title:       Workshop 2
