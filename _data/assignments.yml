@@ -30,14 +30,14 @@ workshop02:
   title:       Workshop 2
   subtitle:    "Shadow-Mapping"
   type:        workshop
-  date:        Friday 2/16
+  date:        Tuesday 2/20
   # basecode:    https://github.com/calpoly-csc476/shadow-basecode
 
 workshop03:
   title:       Workshop 3
   subtitle:    "Post-Processing Effects"
   type:        workshop
-  date:        Friday 2/23
+  date:        Monday 2/26
   # basecode:    https://github.com/calpoly-csc476/fbo-basecode
 
 

@@ -114,8 +114,12 @@
 
   - name: Monday 2/12
     lecture:
-      - text: Lighting Review
+      - text: Quaternions
+        link: /lectures/12-rotation
       - text: Advanced Texturing
+        link: /lectures/14-advanced-texturing
+      - text: Physically-Based Rendering
+        link: /lectures/15-pbr
 
   - name: Wednesday 2/14
     lecture:
@@ -124,7 +128,8 @@
 
   - name: Friday 2/16
     lecture:
-      # Workshop
+      - text: Global Illumination
+      - text: Screen-Space Ambient Occlusion
 
 ###############################################################################
 
@@ -134,15 +139,15 @@
 
   - name: Tuesday 2/20
     lecture:
-      - text: Midterm Review
+      # Workshop - Shadow Mapping
 
   - name: Wednesday 2/21
     lecture:
-      - text: Midterm 1
+      - text: Midterm Review
 
   - name: Friday 2/23
     lecture:
-      # Workshop
+      - text: Midterm 1
 
 ###############################################################################
 
@@ -152,9 +157,7 @@
 
   - name: Monday 2/26
     lecture:
-      - text: Global Illumination
-      - text: Screen-Space Ambient Occlusion
-      - text: Physically-Based Rendering
+      # Workshop
 
   - name: Wednesday 2/28
     lecture:
