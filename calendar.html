@@ -16,8 +16,6 @@ auto-title: true
 
 {% for day in week.days %}
 
-{% if day.override %}
-{% else %}
 
   <tr style="background-color: {{ week_color }};">
 
@@ -26,6 +24,9 @@ auto-title: true
 
 
     <!-- Columns -->
+{% if day.override %}
+    <td><ul><li>{{ day.override }}</li></ul></td>
+{% else %}
 {% for column in site.data.course.schedule_columns %}
     <td>
       <ul>
@@ -62,6 +63,7 @@ auto-title: true
       </ul>
     </td>
 {% endfor %}
+{% endif %}
 
     <!-- Assignments -->
     <td>
@@ -86,9 +88,6 @@ auto-title: true
     {% endfor %}
 
     </td>
-
-
-{% endif %}
 
   </tr>
 
