@@ -113,23 +113,19 @@
   days:
 
   - name: Monday 2/12
+    override: Class was Cancelled
+
+  - name: Wednesday 2/14
     lecture:
-      - text: Quaternions
+      - text: Rotation Representations
         link: /lectures/12-rotation
+
+  - name: Friday 2/16
+    lecture:
       - text: Advanced Texturing
         link: /lectures/14-advanced-texturing
       - text: Physically-Based Rendering
         link: /lectures/15-pbr
-
-  - name: Wednesday 2/14
-    lecture:
-      - text: Shadows
-      - text: Light Maps
-
-  - name: Friday 2/16
-    lecture:
-      - text: Global Illumination
-      - text: Screen-Space Ambient Occlusion
 
 ###############################################################################
 
@@ -139,10 +135,12 @@
 
   - name: Tuesday 2/20
     lecture:
-      # Workshop - Shadow Mapping
+      - text: Shadows
+      - text: Light Maps
 
   - name: Wednesday 2/21
     lecture:
+      # Workshop - Shadow Mapping
       - text: Midterm Review
 
   - name: Friday 2/23
@@ -157,17 +155,18 @@
 
   - name: Monday 2/26
     lecture:
-      # Workshop
+      - text: Global Illumination
+      - text: Screen-Space Ambient Occlusion
 
   - name: Wednesday 2/28
+    lecture:
+      # Workshop
+
+  - name: Friday 3/2
     lecture:
       - text: Polygonal Meshes
       - text: Parametric Geometry
       - text: Voxels
-
-  - name: Friday 3/2
-    lecture:
-      - text: Culling Algorithms
 
 ###############################################################################
 
