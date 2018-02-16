@@ -20,4 +20,6 @@ auto-title: true
 - [11 - Character Animation](11-character-animation)
 - [12 - Rotation Representations](12-rotation)
 - [13 - Culling Techniques](13-culling)
+- [14 - Advanced Texturing](14-advanced-texturing)
+- [15 - Physically-Based Rendering](15-pbr)
 
