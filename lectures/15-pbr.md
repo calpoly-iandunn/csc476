@@ -106,7 +106,7 @@ To talk about what they mean, however, we need to discuss the core theory behind
 Cook-Torrance is a microfacet model, which means that it approximates surfaces as a collection of small individual faces called microfacets.
 You can think of these microfacets as being polygonal approximations of the surface at a sub-pixel level.
 
-![Microfacets]({{ site.baseurl }}/images/microfacet.png)
+![Microfacets](15-figure-microfacet.png)
 
 The important concept here is that the normal of the surface and the normals of each microfacet may not be the same.
 For exceptionally smooth surfaces, like a perfect mirror, all the microfacets face the same direction which is $$ \vec n $$, the normal of the surface.
