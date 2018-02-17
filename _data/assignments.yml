@@ -31,7 +31,7 @@ workshop02:
   subtitle:    "Shadow-Mapping"
   type:        workshop
   date:        Wednesday 2/21
-  # basecode:    https://github.com/calpoly-csc476/shadow-basecode
+  basecode:    https://github.com/calpoly-csc476/shadow-workshop-basecode
 
 workshop03:
   title:       Workshop 3
