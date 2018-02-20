@@ -11,4 +11,5 @@ auto-title: true
 
 Resources:
 
+* [Learn OpenGL: Shadow Mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
 * [Percentage Closer Filtering](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch11.html)
