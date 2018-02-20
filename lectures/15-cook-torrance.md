@@ -1,11 +1,11 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 15: Physically Based Rendering"
+title: "Lecture 15: Cook-Torrance"
 ---
 
-Cook-Torrance
-=============
+Cook-Torrance Reflectance Model
+===============================
 
 In 1982, Robert Cook and Kenneth Torrance published a reflectance model that more accurately
 represented the physical reality of light reflectance than the Phong and Blinn-Phong models.
