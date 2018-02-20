@@ -23,4 +23,5 @@ auto-title: true
 - [14 - Advanced Texturing](14-advanced-texturing)
 - [15 - Physically-Based Rendering](15-pbr)
 - [16 - Shadows](16-shadows)
+- [17 - Screen-space Ambient Occlusion](17-ssao)
 
