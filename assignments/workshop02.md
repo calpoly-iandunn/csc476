@@ -22,12 +22,12 @@ Fill in `SetLightView` and `SetOrthoMatrix` with reasonable values and send the 
 
 Once you get the transforms in place - make sure your matrices are right.
 
-Firstm get the geometric debug to show your scene from the light's perspective to work.
-In the base code `GEOM_DEBUG` is set to 1, leave it as such and hit the **`l`** key to toggle `DEBUG_LIGHT` on or off.
-There are two shader: `depth_vertDebug.glsl` and `depth_fragDebug.glsl`,
-that do exactly what the pass through `depth_vert.glsl` and `depth_frag.glsl` do.
-However, it outputs a color - this allows you to test if the depth shaders are actually 'seeing' the right thing.
-Correct output should look something like:
+First, get the geometric debug to show your scene from the light's perspective to work.
+In the base code `SHOW_LIGHT_COLOR` can be set to `true` to show the colors of the scene from the light camera's view.
+Hold the **`L`** key to toggle `SHOW_LIGHT_COLOR`.
+
+There are two shaders used for this debug view: `depth_vertDebug.glsl` and `depth_fragDebug.glsl`.
+Correct output should look something like the image below, except with texture colors visible:
 
 ![shadows-2](shadows-2.png){:class="img-thumbnail"}
 
@@ -35,8 +35,9 @@ Correct output should look something like:
 
 ## Task 3:
 
-To test the light's depth map, (toggle `GEOM_DEBUG` to 0, and hit the **`l`** key to toggle `DEBUG_LIGHT` on or off).
-There are base shaders: `pass_vert.glsl` and `pass_texfrag.glsl` ("DebugProg"),
+`SHOW_LIGHT_DEPTH` can be used to display the depths of the scene as rendered from the light's perspective.
+Hold the **`K`** key to toggle `SHOW_LIGHT_DEPTH`.
+There are depth debug shaders: `pass_vert.glsl` and `pass_texfrag.glsl` ("DebugProg"),
 that will draw a large quad and texture map on the depth map.
 When the light depth's map view to work, it should look something like:
 
@@ -45,6 +46,14 @@ When the light depth's map view to work, it should look something like:
 
 
 ## Task 4:
+
+Now that we have the shadow depth rendered, we need to use this information to shade the objects.
+
+First, we need to do some setup in `main.cpp`:
+
+1. In `render()`, provide the shadow map texture to the scene draw call.
+
+2. Also provide the light matrix.
 
 To complete the shadow mapping, you need to edit the final pair of shaders
 
