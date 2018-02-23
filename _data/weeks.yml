@@ -133,8 +133,6 @@
 
   - name: Tuesday 2/20
     lecture:
-      - text: Cook-Torrance
-        link: /lectures/15-cook-torrance
       - text: Shadows
         link: /lectures/16-shadows
 
@@ -144,6 +142,8 @@
 
   - name: Friday 2/23
     lecture:
+      - text: Cook-Torrance
+        link: /lectures/15-cook-torrance
       - text: Midterm Review
       - text: Midterm 1 Assigned - Take Home
       - text: Screen-Space Ambient Occlusion
