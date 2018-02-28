@@ -146,8 +146,6 @@
         link: /lectures/15-cook-torrance
       - text: Midterm Review
       - text: Midterm 1 Assigned - Take Home
-      - text: Screen-Space Ambient Occlusion
-        link: /lectures/17-ssao
 
 ###############################################################################
 
@@ -157,7 +155,9 @@
 
   - name: Monday 2/26
     lecture:
-      - text: Global Illumination
+      - text: Midterm 1 Due
+      - text: Screen-Space Ambient Occlusion
+        link: /lectures/17-ssao
 
   - name: Wednesday 2/28
     lecture:
@@ -165,9 +165,7 @@
 
   - name: Friday 3/2
     lecture:
-      - text: Polygonal Meshes
-      - text: Parametric Geometry
-      - text: Voxels
+      - text: Spatial Data Structures
 
 ###############################################################################
 
@@ -182,10 +180,13 @@
 
   - name: Wednesday 3/7
     lecture:
-      - text: Particle Systems
+      - text: Global Illumination
+      - text: Image-Based Lighting
+      - text: Deferred Shading
 
   - name: Friday 3/9
     lecture:
+      - text: Particle Systems
       - text: Geometry Shaders
 
 ###############################################################################
@@ -196,6 +197,9 @@
 
   - name: Monday 3/12
     lecture:
+      - text: Polygonal Meshes
+      - text: Parametric Geometry
+      - text: Voxels
       - text: Subdivision Surfaces
 
   - name: Wednesday 3/14
