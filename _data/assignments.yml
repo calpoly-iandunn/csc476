@@ -35,10 +35,10 @@ workshop02:
 
 workshop03:
   title:       Workshop 3
-  subtitle:    "Post-Processing Effects"
+  subtitle:    "Screen-space Ambient Occlusion"
   type:        workshop
   date:        Wednesday 2/28
-  # basecode:    https://github.com/calpoly-csc476/fbo-basecode
+  basecode:    https://github.com/calpoly-csc476/ssao-workshop-basecode
 
 
 
