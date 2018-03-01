@@ -24,4 +24,5 @@ auto-title: true
 - [15 - Physically-Based Rendering](15-pbr)
 - [16 - Shadows](16-shadows)
 - [17 - Screen-space Ambient Occlusion](17-ssao)
+- [18 - Spatial Data Structures](18-spatial-data-structures)
 

@@ -97,8 +97,6 @@
 
   - name: Wednesday 2/7
     lecture:
-      - text: Rotation Representations
-        link: /lectures/12-rotation
       - text: Culling Techniques
         link: /lectures/13-culling
 
@@ -166,6 +164,7 @@
   - name: Friday 3/2
     lecture:
       - text: Spatial Data Structures
+        link: /lectures/18-spatial-data-structures
 
 ###############################################################################
 
