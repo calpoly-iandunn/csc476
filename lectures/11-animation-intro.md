@@ -1,7 +1,7 @@
 ---
 layout: page
 active: lectures
-title: "Lecture 11: Character Animation"
+title: "Lecture 11: Introduction to Animation"
 auto-title: true
 ---
 

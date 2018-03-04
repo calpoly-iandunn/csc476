@@ -17,7 +17,7 @@ auto-title: true
 - [8 - Object-Oriented Design](08-object-oriented-design)
 - [9 - Data-Oriented Design](09-data-oriented-design)
 - [10 - Game Programming Patterns](10-game-patterns)
-- [11 - Character Animation](11-character-animation)
+- [11 - Intro to Animation](11-animation-intro)
 - [12 - Rotation Representations](12-rotation)
 - [13 - Culling Techniques](13-culling)
 - [14 - Advanced Texturing](14-advanced-texturing)
@@ -25,4 +25,5 @@ auto-title: true
 - [16 - Shadows](16-shadows)
 - [17 - Screen-space Ambient Occlusion](17-ssao)
 - [18 - Spatial Data Structures](18-spatial-data-structures)
+- [19 - Character Animation](19-character-animation)
 

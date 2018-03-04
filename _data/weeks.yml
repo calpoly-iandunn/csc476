@@ -92,8 +92,8 @@
 
   - name: Monday 2/5
     lecture:
-      - text: Character Animation
-        link: /lectures/11-character-animation
+      - text: Intro to Animation
+        link: /lectures/11-animation-intro
 
   - name: Wednesday 2/7
     lecture:
@@ -174,8 +174,8 @@
 
   - name: Monday 3/5
     lecture:
-      - text: Skinned Mesh Animation
-      - text: Inverse Kinematics
+      - text: Character Animation
+        link: /lectures/19-character-animation
 
   - name: Wednesday 3/7
     lecture:
