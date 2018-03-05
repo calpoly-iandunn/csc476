@@ -60,9 +60,17 @@ For example, dual quaternion skinning is an alternative to standard linear blend
 References
 ----------
 
+### Skinned Animation
+
 * [OpenGL Wiki - Skeletal Animation](https://www.khronos.org/opengl/wiki/Skeletal_Animation)
 * [(My) ionEngine - Skinned Animation Sample](https://github.com/iondune/ionEngineSamples/tree/master/SkinnedAnimation)
 * [Skinning with Dual Quaternions](https://www.cs.utah.edu/~ladislav/dq/index.html)
 * [A Beginners Guide to Dual-Quaternions](http://wscg.zcu.cz/wscg2012/short/A29-full.pdf)
+* [Elastic-Inspired Deformers for Character Articulation](http://igl.ethz.ch/projects/eid/)
+
+### Inverse Kinematics
+
+* [Overview and Terminology of IK](https://medium.com/unity3danimation/overview-of-inverse-kinematics-9769a43ba956)
+* [(My) ionEngine - Inverse Kinematics Sample](https://github.com/iondune/ionEngineSamples/tree/master/InverseKinematics)
 * [FABRIK - Fast and Effective IK Technique](http://www.andreasaristidou.com/publications/papers/FABRIK.pdf)
 
