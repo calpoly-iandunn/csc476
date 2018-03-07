@@ -179,12 +179,14 @@
 
   - name: Wednesday 3/7
     lecture:
+      - text: Inverse Kinematics
+        link: /lectures/19-character-animation
       - text: Deferred Shading
-      - text: Image-Based Lighting
-      - text: Global Illumination
 
   - name: Friday 3/9
     lecture:
+      - text: Image-Based Lighting
+      - text: Global Illumination
       - text: Particle Systems
       - text: Geometry Shaders
 
