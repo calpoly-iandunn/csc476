@@ -20,6 +20,9 @@ auto-title: true
 
 
 
+## Books
+
+- [Exhaustive list of books related to game engine development](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
 
 
 
