@@ -40,6 +40,13 @@ workshop03:
   date:        Wednesday 2/28
   basecode:    https://github.com/calpoly-csc476/ssao-workshop-basecode
 
+workshop04:
+  title:       Workshop 4
+  subtitle:    "Deferred Shading"
+  type:        workshop
+  date:        Monday 3/12
+  basecode:    https://github.com/calpoly-csc476/deferred-shading-workshop-basecode
+
 
 
 ##############################

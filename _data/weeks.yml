@@ -181,14 +181,12 @@
     lecture:
       - text: Inverse Kinematics
         link: /lectures/19-character-animation
-      - text: Deferred Shading
 
   - name: Friday 3/9
     lecture:
+      - text: Deferred Shading
       - text: Image-Based Lighting
       - text: Global Illumination
-      - text: Particle Systems
-      - text: Geometry Shaders
 
 ###############################################################################
 
@@ -198,19 +196,15 @@
 
   - name: Monday 3/12
     lecture:
-      - text: Polygonal Meshes
-      - text: Parametric Geometry
-      - text: Voxels
-      - text: Subdivision Surfaces
 
   - name: Wednesday 3/14
     lecture:
-      - text: Visual Storytelling
-      - text: Midterm Review
+      - text: Workshop 5 (TBA)
 
   - name: Friday 3/16
     lecture:
-      - text: Midterm 2
+      - text: Optional Midterm 2 Take-Home Available
+      - text: Workshop 6 (Procedural Content Generation)
 
 ###############################################################################
 
