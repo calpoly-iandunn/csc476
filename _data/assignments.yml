@@ -47,6 +47,13 @@ workshop04:
   date:        Monday 3/12
   basecode:    https://github.com/calpoly-csc476/deferred-shading-workshop-basecode
 
+workshop05:
+  title:       Workshop 5
+  subtitle:    "Inverse Kinematics"
+  type:        workshop
+  date:        Wednesday 3/14
+  basecode:    https://github.com/calpoly-csc476/inverse-kinematics-workshop-basecode
+
 
 
 ##############################
