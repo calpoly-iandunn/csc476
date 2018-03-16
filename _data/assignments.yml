@@ -54,6 +54,13 @@ workshop05:
   date:        Wednesday 3/14
   basecode:    https://github.com/calpoly-csc476/inverse-kinematics-workshop-basecode
 
+workshop06:
+  title:       Workshop 6
+  subtitle:    "Procedural Generation"
+  type:        workshop
+  date:        Friday 3/16
+  basecode:    https://github.com/calpoly-csc476/procedural-generation-workshop-basecode
+
 
 
 ##############################
