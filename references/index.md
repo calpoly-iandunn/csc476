@@ -25,4 +25,11 @@ auto-title: true
 - [Exhaustive list of books related to game engine development](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
 
 
+## Blog Posts / Videos / Other
+
+- [How to Write Your Own C++ Game Engine](http://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
+- [SOLID principles of design](https://www.youtube.com/watch?v=TMuno5RZNeE)
+- [Math for Game Programmers](https://www.youtube.com/watch?v=tu-Qe66AvtY)
+- [Math for Game Programmers](http://mathforgameprogrammers.com/)
+- [Essential Math for Game Programmers](http://essentialmath.com/)
 
